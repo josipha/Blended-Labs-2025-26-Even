@@ -27,15 +27,22 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Reviewed pre-created IAM users: user-1, user-2, user-3  
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+  <img width="1912" height="1199" alt="image" src="https://github.com/user-attachments/assets/478f4d2c-6a18-41b3-823d-458ab9da7c91" />
+<img width="1912" height="1199" alt="image" src="https://github.com/user-attachments/assets/f82f19e9-d842-4c92-a160-44c8d6e59df0" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1109" alt="Screenshot 2026-02-27 134951" src="https://github.com/user-attachments/assets/ea4e3c60-9861-407c-87ea-85e6537aa8d2" />
+<img width="1910" height="1100" alt="image" src="https://github.com/user-attachments/assets/60494e35-4b2c-40cf-bc5e-8b401756003a" />
+<img width="1918" height="1199" alt="image" src="https://github.com/user-attachments/assets/f6a58d37-e204-4ec0-8200-ef459c62f953" />
+
+
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +50,10 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1150" alt="image" src="https://github.com/user-attachments/assets/8c306e5d-ba50-44e6-b08d-84a1844d5eab" />
+<img width="1910" height="1144" alt="image" src="https://github.com/user-attachments/assets/0190ca47-a666-4d73-a8a4-346cc1b638d3" />
+
+
 
 
 ## Workflow
@@ -66,6 +76,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Josipha reg no:212224220044
 **Course:** Introduction to Cloud Computing  
 
